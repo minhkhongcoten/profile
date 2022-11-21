@@ -19,7 +19,7 @@ a:hover{cursor:url("https://cdn.leanhduc.pro.vn/theme/theme-thong-tin-lien-he-ve
 @keyframes spin{0%,15%{transform:rotate(0)}100%{transform:rotate(360deg)}}*
 {font-family:"Roboto";padding:0;margin:0}
 .border{position:relative;width:50%;height:2px;background-color:rgb(138,138,138)}
-#boxs{margin-top:3px}#bg{position:fixed;min-height:100vh;min-width:100%;background-image:url("https://p4.wallpaperbetter.com/wallpaper/46/540/1009/cyberwave-purple-outrun-wallpaper-preview.jpg");background-size:cover;background-position:center;margin:0;padding:0;top:0;left:0}
+#boxs{margin-top:3px}#bg{position:fixed;min-height:100vh;min-width:100%;background-image:url("https://a-static.besthdwallpaper.com/firewatch-video-game-sunset-in-mountains-wallpaper-2800x1050-22129_88.jpg");background-size:cover;background-position:center;margin:0;padding:0;top:0;left:0}
 #window{position:absolute;min-height:100%;min-width:100%;background-color:#000000;padding:0;top:0;left:0}
 #main{z-index:2;position:relative;width:450px;padding-bottom:5px;background-color:#ffffffa4;border-radius:25px;margin-top:5px;-webkit-box-shadow:0 0 50px 0 rgba(0,0,0,0.74);box-shadow:0 0 10px 0 rgba(0,0,0,0.74)}
 #cover{position:relative;height:100%;width:100%;background-image:url("https://cdn.leanhduc.pro.vn/theme/theme-thong-tin-lien-he-version-2-0/images/cover.gif");background-position:center;background-size:cover;border-top-left-radius:25px;border-top-right-radius:25px;padding-top:30px;padding-bottom:30px}
